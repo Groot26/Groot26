@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **MediCare**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Nexj.js**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **saimorajkar123@gmail.com**
 
